@@ -1,0 +1,27 @@
+.condition {
+  margin-bottom: 20px;
+}
+
+.condition-input {
+  width: 200px;
+  
+}
+.potential {
+  color: beige;
+}
+/* table row status color */
+.el-table .potential-row {
+  background: rgb(206, 240, 247);
+}
+.el-table .reserve-row {
+  background: rgb(206, 245, 186);
+}
+.el-table .unsubscribe-row {
+  background: rgb(245, 124, 91);
+}
+.el-table .deal-row {
+  background: rgb(58, 163, 5);
+}
+.el-table .refund-row {
+  background: rgb(243, 62, 38);
+}
